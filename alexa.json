@@ -3,7 +3,7 @@
   "wake_word": "em_five",
   "author": "master phooey",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "alexa.tflite",
   "trained_languages": [
     "en"
   ],
