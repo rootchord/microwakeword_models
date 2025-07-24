@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "em_five",
+  "wake_word": "alexa",
   "author": "master phooey",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
   "model": "alexa.tflite",
