@@ -1,7 +1,7 @@
 {
   "type": "micro",
-  "wake_word": "Hey Greg",
-  "author": "master phooey",
+  "wake_word": "hey greg",
+  "author": "some dude",
   "website": "https://microwakeword.com",
   "model": "hey_greg.tflite",
   "trained_languages": [
