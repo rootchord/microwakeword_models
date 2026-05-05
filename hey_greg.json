@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey greg",
+  "wake_word": "hey_greg",
   "author": "some dude",
   "website": "https://microwakeword.com",
   "model": "hey_greg.tflite",
