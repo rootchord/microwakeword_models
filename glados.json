@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "GLaDOS",
   "author": "rootchord",
-  "website": "",
+  "website": "https://microwakeword.com/",
   "model": "glados.tflite",
   "trained_languages": [
     "en"
