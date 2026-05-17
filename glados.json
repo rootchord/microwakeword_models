@@ -3,7 +3,7 @@
   "wake_word": "GLaDOS",
   "author": "rootchord",
   "website": "",
-  "model": "glados.tflite",
+  "model": "https://raw.githubusercontent.com/rootchord/microwakeword_models/main/glados.tflite",
   "trained_languages": [
     "en"
   ],
