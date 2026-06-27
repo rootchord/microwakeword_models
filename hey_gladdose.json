@@ -1,8 +1,8 @@
 {
   "type": "micro",
-  "wake_word": "hey gladdose",
+  "wake_word": "hey GLaDOS",
   "author": "WakeForge",
-  "website": "https://github.com/OHF-Voice/micro-wake-word",
+  "website": "https://github.com/rootchord/microwakeword_models",
   "model": "hey_gladdose.tflite",
   "trained_languages": [
     "en"
